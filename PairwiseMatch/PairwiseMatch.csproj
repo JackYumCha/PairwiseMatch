@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Copyright>MIT License</Copyright>
+    <PackageTags>Pairwise match, Structural Match</PackageTags>
+    <RepositoryUrl>https://github.com/JackYumCha/PairwiseMatch</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/JackYumCha/PairwiseMatch</PackageProjectUrl>
+    <Description>Pairwise Match can serve as the basis for parser of structured text such as HTML, WKT.</Description>
+    <PackageReleaseNotes>Fix version.</PackageReleaseNotes>
+    <Version>1.0.1</Version>
+    <Authors>Zhenyu Shi</Authors>
+    <Company>JackDataScience</Company>
   </PropertyGroup>
 
 </Project>
