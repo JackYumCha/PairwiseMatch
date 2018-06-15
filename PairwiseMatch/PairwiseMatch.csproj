@@ -11,7 +11,7 @@
     <Description>Pairwise Match can serve as the basis for parser of structured text such as HTML, WKT.</Description>
     <PackageReleaseNotes>Fix version.</PackageReleaseNotes>
     <Version>1.0.1</Version>
-    <Authors>Zhenyu Shi</Authors>
+    <Authors>JackDataScience</Authors>
     <Company>JackDataScience</Company>
   </PropertyGroup>
 
